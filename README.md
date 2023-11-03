@@ -97,17 +97,17 @@ bun upgrade --canary
   - [`bun create`](https://bun.sh/docs/cli/bun-create)
   - [`bunx`](https://bun.sh/docs/cli/bunx)
 - Runtime
-  - [Runtime](https://bun.sh/docs/runtime/index)
+  - [Runtime](https://bun.sh/docs/runtime/loaders)
   - [Module resolution](https://bun.sh/docs/runtime/modules)
   - [Hot &amp; live reloading](https://bun.sh/docs/runtime/hot)
   - [Plugins](https://bun.sh/docs/bundler/plugins)
 - Ecosystem
-  - [Node.js](https://bun.sh/docs/ecosystem/nodejs)
+  - [Node.js](https://bun.sh/docs/runtime/nodejs-apis)
   - [TypeScript](https://bun.sh/docs/ecosystem/typescript)
-  - [React](https://bun.sh/docs/ecosystem/react)
-  - [Elysia](https://bun.sh/docs/ecosystem/elysia)
-  - [Hono](https://bun.sh/docs/ecosystem/hono)
-  - [Express](https://bun.sh/docs/ecosystem/express)
+  - [React](https://bun.sh/docs/runtime/loaders#jsx)
+  - [Elysia](https://bun.sh/guides/ecosystem/elysia)
+  - [Hono](https://bun.sh/guides/ecosystem/hono)
+  - [Express](https://bun.sh/guides/ecosystem/express)
   - [awesome-bun](https://github.com/apvarun/awesome-bun)
 - API
   - [HTTP](https://bun.sh/docs/api/http)
